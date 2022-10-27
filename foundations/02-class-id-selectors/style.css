@@ -1,0 +1,19 @@
+.the-class {
+    background-color: #FFB8BF;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.the-cooler-class {
+    font-size: 24px;
+}
+
+#one-id {
+    color: #0827F5;
+    font-size: 36px;
+}
+
+#another-id {
+    background-color: #AADB1E;
+    font-size: 24px;
+    font-weight: bold;
+}
